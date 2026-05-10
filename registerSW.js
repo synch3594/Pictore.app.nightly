@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Pictore/sw.js', { scope: '/Pictore/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Pictore.app.nightly/sw.js', { scope: '/Pictore.app.nightly/' })})}
